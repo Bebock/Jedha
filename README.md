@@ -24,9 +24,13 @@ Les données étaient recueillies à différents temps de l'expérience :
   * Le lendemain matin 
   * 3 à 4 semaines plus tard
 
+----
+
 ## 2. Objectif
 
 L'objectif de ce travail est de comprendre, à l'aide d'une **analyse descriptive exploratoire**, les facteurs déterminants l'occurence d'un second rendez-vous (i.e. un match - les deux partenaires ont souhaité donner suite).  
+
+----
 
 ## 3. Comment procéder ?
 
@@ -34,10 +38,13 @@ L'objectif de ce travail est de comprendre, à l'aide d'une **analyse descriptiv
 
 ### Les fichiers
 
+----
+
 ## 4. Overview des principaux résultats
 
+----
 
-## 5. Iformations
+## 5. Informations
 
 ### Outils
 
@@ -45,6 +52,8 @@ Les notebooks ont été développés avec [Visual Studio Code](https://code.visu
 
 ### Auteurs & contributeurs
 
-  * Helene alias [@Bebock](
+  * Helene alias [@Bebock](https://github.com/Bebock)
+
+
 
 [^1]: Raymond Fisman, Sheena S. Iyengar, Emir Kamenica, Itamar Simonson, Gender Differences in Mate Selection: Evidence From a Speed Dating Experiment, The Quarterly Journal of Economics, Volume 121, Issue 2, May 2006, Pages 673–697, https://doi.org/10.1162/qjec.2006.121.2.673
