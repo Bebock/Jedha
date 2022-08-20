@@ -69,7 +69,7 @@ Les notebooks peuvent être exécutés indépendamment les uns des autres.
 
 ## 4. Overview des principaux résultats
 
-### Influence des caractéristiques du décideurs
+### Influence des caractéristiques du décideur
 
 De manière globale, très peu de variables relatives aux décideurs émergent comme prépondérantes dans leur tendance à souhaiter donner suite au premier rendez-vous. On notera entre autres :
   * Son attractivité : Moins le décideur est perçu comme attractif par les personnes rencontrées, plus il est enclin à souhaiter un deuxième rendez-vous
@@ -78,6 +78,21 @@ De manière globale, très peu de variables relatives aux décideurs émergent c
 Ces deux variables n'apparaissent pas interagir entre elles, la tendance liée à l'attractivité est la même pour les hommes et pour les femmes. 
 
 ![image](https://user-images.githubusercontent.com/38078432/185758122-c2611c8f-32ac-4269-a445-61077afe82ac.png)
+
+### Influence des caractéristiques du partenaire
+
+L'évaluation du partenaire sur différentes dimensions influence positivement le fait qu'on souhaite le revoir à la suite du premier rendez-vous. 
+Plus un partenaire est perçu comme attrayant, drôle, partageant des centres d'intérêts, ambiteux, sincère et intelligent, plus il est susceptible de se voir proposer un second rdv. On notera que l'attractivité est l'élément fondamental alors que la sincérité et l'intelligence sont des caractéristiques plus annexes dans le déclenchement d'une envie d'aller plus loin. 
+
+![image](https://user-images.githubusercontent.com/38078432/185758209-a44b647d-a850-411d-a9f0-2016e2ac8745.png)
+
+Contrairement à ce que l'on pourrait attendre, plus le partenaire recherche un décideur sincère, et plus il recherche quelqu'un qui partage avec lui des centres d'intérêt, moins il a de chances de susciter un second rendez-vous. 
+
+### Evolution des critères de recherche en fonction des matchs obtenus
+
+Quand les personnes ont au moins un match, elles ont davantage tendance à renforcer l'importance de l'attractivité du partenaire (deviennent plus exigeantes) là où les personnes qui n'ont pas matché ont tendance à conserver la même importance de cette caractéristique. 
+
+![image](https://user-images.githubusercontent.com/38078432/185758286-a30ab77f-f488-42ab-96a3-a6de65146c4f.png)
 
 ----
 
