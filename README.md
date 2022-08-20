@@ -2,7 +2,7 @@
 
 ## 1. Présentation des données
 
-Les données sont disponibles dans le cadre d'une compétition Kaggle :
+Les données sont fournies dans le cadre d'une compétition Kaggle :
 [Kaggle compétition](https://www.kaggle.com/datasets/annavictoria/speed-dating-experiment)
 
 Ces données ont été collectées dans le cadre d'une recherche menée par Raymond Fisman et collaborateurs[^1] et dans laquelle les participants (des étudiants de l'université de Columbia) ont pris part à des évènements de speed dating expérimentaux entre 2002 et 2004 (21 vagues dont 14 utilisées dans l'analyse). Lors de ces rencontres, les participants avaient un premier rendez-vous de 4 minutes avec d'autres participants du sexe opposé. 
@@ -41,6 +41,14 @@ Les librairies suivantes sont nécessaires :
 
 
 ### Les fichiers
+
+  * Le fichier de données : Speed Dating Data.csv
+  * Le dictionnaire des variables : Speed Dating Data Key.doc
+  * Traitement de la question 1 : Q1-Decideur.ipynb
+  * Traitement de la question 2 : Q2-Partenaire.ipynb
+  * Traitement de la question 3 : Q3-Evolution.ipynb
+
+Les notebooks peuvent être exécutés indépendamment les uns des autres. 
 
 ----
 
