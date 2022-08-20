@@ -36,6 +36,10 @@ L'objectif de ce travail est de comprendre, à l'aide d'une **analyse descriptiv
 
 ### Pré-requis
 
+Les librairies suivantes sont nécessaires : 
+
+
+
 ### Les fichiers
 
 ----
