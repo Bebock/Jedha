@@ -28,8 +28,17 @@ Les données étaient recueillies à différents temps de l'expérience :
 
 ## 2. Objectif
 
-L'objectif de ce travail est de comprendre, à l'aide d'une **analyse descriptive exploratoire**, les facteurs déterminants l'occurence d'un second rendez-vous (i.e. un match - les deux partenaires ont souhaité donner suite).  
+L'objectif de ce travail est de comprendre, à l'aide d'une **analyse descriptive exploratoire**, les facteurs déterminants l'occurence d'un second rendez-vous (les deux partenaires ont souhaité donner suite).  
 
+Cet objectif est décomposé en 2 questions principales : 
+
+  * Question 1 : Quelles sont les caractéristiques du décideur qui peuvent le rendre plus enclin à souhaiter un deuxième rendez-vous ?
+  * Question 2 : Quelles sont les caractéristiques du partenaire qui peuvent rendre décideur plus enclin à souhaiter un deuxième rendez-vous ?
+
+Une question plus annexe a également été traitée : 
+
+  * Question 3 : Le nombre de matchs obtenus influence-t-il ce que l'on recherche chez un partenaire ? 
+ 
 ----
 
 ## 3. Comment procéder ?
@@ -37,8 +46,14 @@ L'objectif de ce travail est de comprendre, à l'aide d'une **analyse descriptiv
 ### Pré-requis
 
 Les librairies suivantes sont nécessaires : 
-
-
+  * warnings
+  * pandas 
+  * seaborn 
+  * numpy 
+  * matplotlib.pyplot 
+  * plotly
+  * bioinfokit.analys 
+  * mpl_toolkits.mplot3d 
 
 ### Les fichiers
 
@@ -53,6 +68,16 @@ Les notebooks peuvent être exécutés indépendamment les uns des autres.
 ----
 
 ## 4. Overview des principaux résultats
+
+### Influence des caractéristiques du décideurs
+
+De manière globale, très peu de variables relatives aux décideurs émergent comme prépondérantes dans leur tendance à souhaiter donner suite au premier rendez-vous. On notera entre autres :
+  * Son attractivité : Moins le décideur est perçu comme attractif par les personnes rencontrées, plus il est enclin à souhaiter un deuxième rendez-vous
+  * Son genre : Les hommes ont tendance à davantage souhaiter un second rendez-vous que les femmes
+
+Ces deux variables n'apparaissent pas interagir entre elles, la tendance liée à l'attractivité est la même pour les hommes et pour les femmes. 
+
+![image](https://user-images.githubusercontent.com/38078432/185758122-c2611c8f-32ac-4269-a445-61077afe82ac.png)
 
 ----
 
