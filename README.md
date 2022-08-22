@@ -32,12 +32,10 @@ L'objectif de ce travail est de comprendre, à l'aide d'une **analyse descriptiv
 
 Cet objectif est décomposé en 2 questions principales : 
 
-  * Question 1 : Quelles sont les caractéristiques du décideur qui peuvent le rendre plus enclin à souhaiter un deuxième rendez-vous ?
-  * Question 2 : Quelles sont les caractéristiques du partenaire qui peuvent rendre décideur plus enclin à souhaiter un deuxième rendez-vous ?
+* Quelles sont les caractéristiques du décideur qui peuvent le rendre plus enclin à souhaiter un deuxième rendez-vous ? Autrement dit, est ce qu'il y a des facteurs qui nous "prédisposent" plus facilement à donner suite à un premier rendez-vous, "indépendamment" des partenaires ?
+  * Quelles sont les caractéristiques du partenaire qui peuvent rendre le décideur plus enclin à souhaiter un deuxième rendez-vous ? Autrement dit, est ce qu'il y a des facteurs chez la personne que l'on rencontre qui sont prépondérants dans la volonté de donner suite à un premier rendez-vous ?
 
-Une question plus annexe a également été traitée : 
-
-  * Question 3 : Le nombre de matchs obtenus influence-t-il ce que l'on recherche chez un partenaire ? 
+En objectif secondaire, une question annexe a été ajoutée : Le nombre de matchs obtenus influence-t-il ce qu'on l'on recherche chez un partenaire ? Autrement dit, est ce qu'une personne change ses critères de recherches, évolue quant aux caractéristiques importantes pour elle, parce qu'elle a obtenu de nombreux matchs ou au contraire très peu ? 
  
 ----
 
@@ -59,11 +57,12 @@ Les librairies suivantes sont nécessaires :
 
   * Le fichier de données : Speed Dating Data.csv
   * Le dictionnaire des variables : Speed Dating Data Key.doc
+
+Pour simplifier la navigation, un notebook indépendant est proposé pour chaque question :
+
   * Traitement de la question 1 : Q1-Decideur.ipynb
   * Traitement de la question 2 : Q2-Partenaire.ipynb
   * Traitement de la question 3 : Q3-Evolution.ipynb
-
-Les notebooks peuvent être exécutés indépendamment les uns des autres. 
 
 ----
 
