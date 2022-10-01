@@ -1,4 +1,3 @@
-[Lien vers la video](https://share.vidyard.com/watch/SDzoKJGGBhjzf298KtBTzq?)
 
 # Analyse exploratoire, descriptive et inférentielle de données
 
